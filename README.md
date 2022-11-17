@@ -1,2 +1,2 @@
 # ApiPokemon
-*IMplementación del Api Pokemon Angular*
+*Implementación del Api Pokemon Angular*
